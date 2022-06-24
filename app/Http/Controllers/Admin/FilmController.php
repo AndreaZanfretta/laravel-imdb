@@ -15,8 +15,6 @@ class FilmController extends Controller
     public function index()
     {
         $films = Film::all();
-
-        return view('Admin.home');
         return view('films.index', compact('films'));
     }
 
