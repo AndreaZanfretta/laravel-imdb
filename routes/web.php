@@ -17,9 +17,7 @@ use Illuminate\Support\Facades\Auth;
 Route::get('/', function () {
     return view('guest.home');
 });
-Route::get('/', function () {
-    return view('header');
-})->name('nome'); //metti il nome qui e sostituisci il nome nelle parentesi
+
 
 Auth::routes();
 
@@ -30,3 +28,7 @@ Route::middleware('auth')
     ->group(function(){
         Route::get('/', 'HomeController@index')->name('home');
     });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
