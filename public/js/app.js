@@ -49942,9 +49942,15 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+<<<<<<< HEAD
 __webpack_require__(/*! C:\Users\Antonio\Desktop\laravel-imdb\resources\js\app.js */"./resources/js/app.js");
 __webpack_require__(/*! C:\Users\Antonio\Desktop\laravel-imdb\resources\sass\app.scss */"./resources/sass/app.scss");
 module.exports = __webpack_require__(/*! C:\Users\Antonio\Desktop\laravel-imdb\resources\sass\front.scss */"./resources/sass/front.scss");
+=======
+__webpack_require__(/*! C:\MAMP\htdocs\laravel-imdb\resources\js\app.js */"./resources/js/app.js");
+__webpack_require__(/*! C:\MAMP\htdocs\laravel-imdb\resources\sass\app.scss */"./resources/sass/app.scss");
+module.exports = __webpack_require__(/*! C:\MAMP\htdocs\laravel-imdb\resources\sass\front.scss */"./resources/sass/front.scss");
+>>>>>>> 3eefd1343be49318dbd5e1bf8a96fd5bd4c6f27f
 
 
 /***/ })
