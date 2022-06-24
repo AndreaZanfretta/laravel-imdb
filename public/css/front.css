@@ -1807,6 +1807,16 @@ pre code {
   color: #6c757d;
   opacity: 1;
 }
+<<<<<<< HEAD
+<<<<<<< HEAD
+.form-control:-ms-input-placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+=======
+>>>>>>> 857063863e43855f28f7a217a4fe21c8737b55da
+=======
+>>>>>>> 55db8b53bd5e6f4c0d30e223c48f54b2cf788910
 .form-control::placeholder {
   color: #6c757d;
   opacity: 1;
@@ -2223,6 +2233,13 @@ textarea.form-control {
   vertical-align: middle;
   -webkit-user-select: none;
      -moz-user-select: none;
+<<<<<<< HEAD
+<<<<<<< HEAD
+      -ms-user-select: none;
+=======
+>>>>>>> 857063863e43855f28f7a217a4fe21c8737b55da
+=======
+>>>>>>> 55db8b53bd5e6f4c0d30e223c48f54b2cf788910
           user-select: none;
   background-color: transparent;
   border: 1px solid transparent;
@@ -6969,18 +6986,39 @@ button.bg-dark:focus {
 .user-select-all {
   -webkit-user-select: all !important;
      -moz-user-select: all !important;
+<<<<<<< HEAD
+<<<<<<< HEAD
+      -ms-user-select: all !important;
+=======
+>>>>>>> 857063863e43855f28f7a217a4fe21c8737b55da
+=======
+>>>>>>> 55db8b53bd5e6f4c0d30e223c48f54b2cf788910
           user-select: all !important;
 }
 
 .user-select-auto {
   -webkit-user-select: auto !important;
      -moz-user-select: auto !important;
+<<<<<<< HEAD
+<<<<<<< HEAD
+      -ms-user-select: auto !important;
+=======
+>>>>>>> 857063863e43855f28f7a217a4fe21c8737b55da
+=======
+>>>>>>> 55db8b53bd5e6f4c0d30e223c48f54b2cf788910
           user-select: auto !important;
 }
 
 .user-select-none {
   -webkit-user-select: none !important;
      -moz-user-select: none !important;
+<<<<<<< HEAD
+<<<<<<< HEAD
+      -ms-user-select: none !important;
+=======
+>>>>>>> 857063863e43855f28f7a217a4fe21c8737b55da
+=======
+>>>>>>> 55db8b53bd5e6f4c0d30e223c48f54b2cf788910
           user-select: none !important;
 }
 
