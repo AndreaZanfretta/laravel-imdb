@@ -19,7 +19,7 @@ Route::get('/', function () {
 });
 Route::get('/', function () {
     return view('header');
-})->('name');
+})->name('nome'); //metti il nome qui e sostituisci il nome nelle parentesi
 
 Auth::routes();
 
