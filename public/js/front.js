@@ -49920,7 +49920,15 @@ var app = new Vue({
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+<<<<<<< HEAD
 module.exports = __webpack_require__(/*! E:\Users\andre\Desktop\BooleanCareers\laravel-imdb\resources\js\front.js */"./resources/js/front.js");
+=======
+<<<<<<< HEAD
+module.exports = __webpack_require__(/*! C:\Users\Antonio\Desktop\laravel-imdb\resources\js\front.js */"./resources/js/front.js");
+=======
+module.exports = __webpack_require__(/*! C:\MAMP\htdocs\laravel-imdb\resources\js\front.js */"./resources/js/front.js");
+>>>>>>> 3eefd1343be49318dbd5e1bf8a96fd5bd4c6f27f
+>>>>>>> 857063863e43855f28f7a217a4fe21c8737b55da
 
 
 /***/ })
