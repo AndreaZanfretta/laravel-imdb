@@ -49943,6 +49943,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ (function(module, exports, __webpack_require__) {
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 __webpack_require__(/*! E:\Users\andre\Desktop\BooleanCareers\laravel-imdb\resources\js\app.js */"./resources/js/app.js");
 __webpack_require__(/*! E:\Users\andre\Desktop\BooleanCareers\laravel-imdb\resources\sass\app.scss */"./resources/sass/app.scss");
 module.exports = __webpack_require__(/*! E:\Users\andre\Desktop\BooleanCareers\laravel-imdb\resources\sass\front.scss */"./resources/sass/front.scss");
@@ -49957,6 +49958,11 @@ __webpack_require__(/*! C:\MAMP\htdocs\laravel-imdb\resources\sass\app.scss */".
 module.exports = __webpack_require__(/*! C:\MAMP\htdocs\laravel-imdb\resources\sass\front.scss */"./resources/sass/front.scss");
 >>>>>>> 3eefd1343be49318dbd5e1bf8a96fd5bd4c6f27f
 >>>>>>> 857063863e43855f28f7a217a4fe21c8737b55da
+=======
+__webpack_require__(/*! C:\MAMP\htdocs\esercizi\laravel-imdb\laravel-imdb\resources\js\app.js */"./resources/js/app.js");
+__webpack_require__(/*! C:\MAMP\htdocs\esercizi\laravel-imdb\laravel-imdb\resources\sass\app.scss */"./resources/sass/app.scss");
+module.exports = __webpack_require__(/*! C:\MAMP\htdocs\esercizi\laravel-imdb\laravel-imdb\resources\sass\front.scss */"./resources/sass/front.scss");
+>>>>>>> 55db8b53bd5e6f4c0d30e223c48f54b2cf788910
 
 
 /***/ })
